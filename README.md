@@ -1,8 +1,12 @@
 # Interpolación de texto
 
-Libro de trabajo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jzaldivar/interpolacion-de-texto/HEAD?filepath=Interpolaci%C3%B3n%20de%20texto.ipynb)
+Libro de trabajo: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jzaldivar/interpolacion-de-texto/blob/main/Interpolaci%C3%B3n%20de%20texto.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jzaldivar/interpolacion-de-texto/HEAD?filepath=Interpolaci%C3%B3n%20de%20texto.ipynb)
 
-Libro con soluciones: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jzaldivar/interpolacion-de-texto/HEAD)
+Libro con soluciones: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jzaldivar/interpolacion-de-texto/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jzaldivar/interpolacion-de-texto/HEAD)
 
 Práctica para el tema de interpolación de texto (dar formato a la salida de los programas).
 
