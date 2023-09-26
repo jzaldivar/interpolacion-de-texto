@@ -1,7 +1,10 @@
 # Interpolación de texto
 
 Libro de trabajo: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jzaldivar/interpolacion-de-texto/blob/main/Interpolaci%C3%B3n%20de%20texto.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jzaldivar/interpolacion-de-texto/blob/main/Interpolaci%C3%B3n%20de%20texto.ipynb]
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jzaldivar/interpolacion-de-texto/HEAD?filepath=Interpolaci%C3%B3n%20de%20texto.ipynb)
 
 Libro con soluciones: 
